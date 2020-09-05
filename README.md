@@ -7,6 +7,7 @@ An algorithm to detect keypoint in faces.
   * Used Adam optimizer
   
 **Documentation**
+
 Dataset Used: [images](https://s3.amazonaws.com/video.udacity-data.com/topher/2018/May/5aea1b91_train-test-data/train-test-data.zip)
 Framework: Pytorch
 Training Loss: 0.0819
@@ -20,4 +21,4 @@ Libraries Used:
 
 **Example**
 ```visualize_output(images,output_pts,key_pts)```
-[images](https://drive.google.com/file/d/1kzyfPWTUW4svMqALz5XyQow4kKrN30S-/view?usp=sharing)
+![images](https://drive.google.com/file/d/1kzyfPWTUW4svMqALz5XyQow4kKrN30S-/view?usp=sharing)
