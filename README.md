@@ -1,12 +1,12 @@
 # Keypoint detection
 An algorithm to detect keypoint in faces.
 
-**Gist about the algorithm**
+## Gist about the algorithm ##
   * Used 3 convolutional network
   * Opted MSELoss as a Loss Function
   * Used Adam optimizer
   
-**Documentation**
+## Documentation ##
 
 Dataset Used: [images](https://s3.amazonaws.com/video.udacity-data.com/topher/2018/May/5aea1b91_train-test-data/train-test-data.zip)
 
@@ -24,8 +24,8 @@ Libraries Used:
 * torchwiz
 * OpenCV
 
-**Example**
+## Example ##
 
 ```visualize_output(images,output_pts,key_pts)```
 
-![images](https://drive.google.com/file/d/1kzyfPWTUW4svMqALz5XyQow4kKrN30S-/view?usp=sharing)
+![images](train.PNG)
